@@ -1,6 +1,6 @@
 
 # DeviConPython
-Python Reconnaissance Tool
+
 Python Reconnaissance Tool that performs passive and active information gathering for the Progrmming for Cybersecurity course
 The tool can be ran on Windows and kali
 
